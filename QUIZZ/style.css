@@ -1,0 +1,38 @@
+body, html{
+    padding:0;
+    margin: 0;
+}
+
+body{
+background: #a1d5e0;
+display: flex;
+justify-content: left;
+align-items: center;
+height: 100vh;
+}
+
+#test {
+    background: #F2AE30;
+    width: 30rem;
+    padding: 4rem;
+    border-radius: .3rem;
+    font-size: 20px;
+    text-align: center;
+    margin: 30px 50px 30px;
+    outline: 10;
+    shape-margin: 50;
+    font-style: oblique
+    ;
+}
+
+#boton {
+    background-color: #593E25;
+    color: #F2AE30;
+    width: 250px;
+    font-size: 20px;
+    border-radius: .3rem;
+    padding: 10px 20px;
+    margin: 10px 40px 10px;
+    outline: 0;
+
+}
